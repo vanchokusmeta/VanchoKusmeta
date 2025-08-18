@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VanchoKusmeta
-- 👀 I’m interested in computer networking, security and all stuff tech
+- 👀 I’m interested in computer networking, QA and all stuff tech
 - 🌱 I’m currently learning Docker, Kubernetes and Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
